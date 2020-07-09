@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\lortr\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(61): warning C4305: +=: усечение из "double" в "float"
+c:\users\lortr\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(169): warning C4305: =: усечение из "double" в "float"
+  ConsoleApplication3.vcxproj -> C:\Users\lortr\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
